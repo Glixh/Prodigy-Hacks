@@ -1,13 +1,13 @@
 # Deceptive Dino Cheats
 
-## [Rock ESP](rockESP.js)
+## [Rock ESP](Rock-ESP.js)
 Shows what each rock will give you
 
-## [Set Fossils](setFossils.js)
+## [Set Fossils](Set-Fossils.js)
 Sets the amount of fossils you have
 
-## [Set Multiplier](setMultiplier.js)
+## [Fossil Multiplier](Fossil-Multiplier.js)
 Sets fossil multiplier
 
-## [Stop Cheating](stopCheating.js)
+## [Disable Cheats](Disable-Cheats.js)
 Undoes cheating so that you can't be caught
