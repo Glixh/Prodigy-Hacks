@@ -14,5 +14,5 @@ Sets all resources to the max
 ## [Set Guests](Set-Guests.js)
 Sets the amount of guests you've seen
 
-## [Skip Guest](skip-Guest.js)
+## [Skip Guest](Skip-Guest.js)
 Skips the current guest
