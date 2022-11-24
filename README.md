@@ -1,4 +1,4 @@
-<h1 align="center">Game Hacks</h1>
+<h1 align="center">Prodigy Hacks</h1>
 <h3 align="center">Still in Development.</h3>
 
 #### Made by Glixh  . This is purley for education purposes.
