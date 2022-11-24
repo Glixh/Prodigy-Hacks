@@ -1,6 +1,6 @@
 # Cafe Cheats
 
-## [Max Items](Max-Items.js)
+## [Max Level Items](Max-Level-Items.js)
 Maxes out items in the shop[^1]
 
 ## [Remove Customers](Remove-Customers.js)
