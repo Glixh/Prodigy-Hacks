@@ -12,7 +12,7 @@ Resets the used abilities in the shop[^1]
 ## [Set Cash](Set-Cash.js)
 Sets cafe cash
 
-## [Stock Food](Stock-Food.js)
+## [Stock Unlimited Food](Stock-Unlimited-Food.js)
 Stocks all food to 99[^2]
 
 [^1]: Only usable in the shop
